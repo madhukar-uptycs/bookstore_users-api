@@ -1,0 +1,21 @@
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+
+### iQIES-UI Project Specific ###
+
+# Directories
+.nyc_output/
+**/coverage/**
+
+# FILES
+*.todo
+*.swp
+selenium-debug.log
+package-lock.json
